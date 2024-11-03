@@ -8,4 +8,4 @@ A Python-based Word Generator using web-scraped data from Merriam-Webster
 
 ## Install
 - git clone https://github.com/ariaujain/WordGenerator.git
-- cd word-generator
+- cd WordGenerator
