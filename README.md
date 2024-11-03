@@ -1,5 +1,5 @@
 # WordGenerator
-Advanced word generator that scrapes words from the Merriam-Webster dictionary and filters them by type, length, and more. Also, features a daily email notification. 
+A Python-based Word Generator using web-scraped data from Merriam-Webster
 
 ## Features
 - Utilizes thousands of unique words and definitions scraped from the Merriam-Webster creating a comprehensive word library.
