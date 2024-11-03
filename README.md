@@ -7,5 +7,5 @@ A Python-based Word Generator using web-scraped data from Merriam-Webster
 - Built with BeautifulSoup and Requests libraries for efficient scraping, data cleaning, and organization.
 
 ## Install
-- git clone https://github.com/ariaujain/word-generator.git
+- git clone https://github.com/ariaujain/WordGenerator.git
 - cd word-generator
